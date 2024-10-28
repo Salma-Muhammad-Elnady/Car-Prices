@@ -3,7 +3,7 @@
 ## Project Aims 
 ___________________________________________________
 ### 1. Data Import:
-    + Download the car price dataset from Kaggle.
++ Download the car price dataset from Kaggle.
     *Import and clean the data by handling any missing or incorrect values.
 
 ### 2. Data Analysis:
