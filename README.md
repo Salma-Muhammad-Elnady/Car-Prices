@@ -26,7 +26,11 @@ The dataset for this project can be found [Here](https://www.kaggle.com/datasets
 ___________________________________________________________
 Below is a brief description of the results of the models used 
 
-| Evaloution | Linear Regression | polynomial Regression | 
+| Evaloution |Linear Regression | polynomial Regression |
+|----------|----------|----------|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+
      
 
 
