@@ -26,11 +26,18 @@ The dataset for this project can be found [Here](https://www.kaggle.com/datasets
 ___________________________________________________________
 Below is a brief description of the results of the models used 
 
-| Evaloution |Linear Regression | polynomial Regression |
-|----------|----------|----------|
-| Row 1    | Data 1   | Data 2   |
-| Row 2    | Data 3   | Data 4   |
-
+| Evaloution |Linear Regression | polynomial Regression | Ride Regression | Lasso Regression | Decision tree Regression | Random forest Regression |
+|----------|----------|----------|----------|----------|----------|----------|
+| R2-Score Train | 0.88  | 1.0 | 0.98 | 0.96 | 0.95 | 0.97 |
+| R2-Score Test | 0.92  | -121.8 | 0.88 | 0.89| 0.82 | 0.92 |
+| MSE Train | 6860822.9 | 2.3478533609988427e-19 | 682751.4 | 1961903.2 | 2472760.6 | 1218577.2 | 
+| MSE Test | 6205818.5 | 10478812451.9 | 9482245.7 | 9014785.9 | 14945566.3 | 6727369.4 | 
+| RMSE Train | 2619.3 | 4.845465262489086e-10 | 826.2 | 1400.6 | 1572.5 | 1103.8 | 
+| RMSE Test | 2491.1 | 102366.07 | 592.8 | 3079.3 | 3002.4 | 3865.9 | 2593.7 | 
+| MAE Train | 1937.5 | 3.198925785510233e-10 | 592.8 | 1032.3 | 1188.0 | 763.4 |
+| MAE Test | 1836.9 | 43309.27 | 2215.3 | 2183.7 | 2100.5 | 1507.9 |
+| MAPE Train | 15.9% | 0.00000000000274% | 5.35% | 9.16% | 9.37% | 5.67% | 
+| MAPE Test | 14.3% | 294.74% | 19.59% | 17.78% | 13.96% | 10.18% |
      
 
 
