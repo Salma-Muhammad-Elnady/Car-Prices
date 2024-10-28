@@ -38,6 +38,12 @@ Below is a brief description of the results of the models used
 | MAE Test | 1836.9 | 43309.27 | 2215.3 | 2183.7 | 2100.5 | 1507.9 |
 | MAPE Train | 15.9% | 0.00000000000274% | 5.35% | 9.16% | 9.37% | 5.67% | 
 | MAPE Test | 14.3% | 294.74% | 19.59% | 17.78% | 13.96% | 10.18% |
+
+# Summary : 
+__________________________________________________________________
+# * Linear Regression and Random Forest models :
+show the best performance on test data, with Random Forest having a slight edge in terms of error metrics.
+
      
 
 
