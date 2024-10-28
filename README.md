@@ -26,10 +26,7 @@ The dataset for this project can be found [Here](https://www.kaggle.com/datasets
 ___________________________________________________________
 Below is a brief description of the results of the models used 
 
-| Evaloution | Linear Regression | polynomial Regression | Ridge Regression | Lasso Regression | Random forest Regression | Decision tree Regression | 
-
-
-     
+| Evaloution | Linear Regression | polynomial Regression | 
      
 
 
