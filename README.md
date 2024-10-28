@@ -41,7 +41,7 @@ Below is a brief description of the results of the models used
 
 # Summary : 
 __________________________________________________________________
-# * Linear Regression and Random Forest models :
+* # Linear Regression and Random Forest models :
 show the best performance on test data, with Random Forest having a slight edge in terms of error metrics.
 
      
