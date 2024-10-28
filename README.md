@@ -22,8 +22,12 @@ ___________________________________________________
 __________________________________________________________
 The dataset for this project can be found [Here](https://www.kaggle.com/datasets/imgowthamg/car-price/data) 
 
+# Results 
+___________________________________________________________
+Below is a brief description of the results of the models used 
+| Linear Regression | polynomial Regression | Ridge Regression | Lasso Regression | Random forest Regression | Decision tree Regression  
+|___________________|_______________________|__________________|__________________|__________________________|__________________________|
 
-      
 
      
      
