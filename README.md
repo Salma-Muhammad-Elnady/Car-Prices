@@ -11,8 +11,9 @@ ___________________________________________________
 * Create visualizations to highlight the relationships between different features and car prices.
 
 ### 3. Model Building:
-* Try different algorithms like: LinearRegression, polynomial regression, Ridge Regression, Lasso Regression, Random forest, Decision tree.   
-* Train the model using the data and evaluate its performance using metrics like: R2-Score, MSE, RMSE, MAE, MAPE. 
+* Try different algorithms like: Linear Regression, polynomial Regression, Ridge Regression, Lasso Regression, Random forest, Decision tree.   
+* Train the model using the data and evaluate its performance using metrics like: R2-Score, MSE, RMSE, MAE, MAPE.
+ 
 ### 4. Model Improvement:
 * Improve the model using techniques like cross-validation and feature engineering.
 * Compare different models and select the one that provides the best accuracy.
